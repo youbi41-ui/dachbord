@@ -1,0 +1,1 @@
+{"name":"clinic52-free-link","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node --check worker.js","test":"node test-worker.mjs","deploy":"wrangler deploy"},"devDependencies":{"wrangler":"4.92.0"}}
