@@ -1,1 +1,8 @@
-{"$schema":"node_modules/wrangler/config-schema.json","name":"clinic52-platform","main":"worker.js","account_id":"40e9f73e78ce6a334d602dd07fe6127f","compatibility_date":"2026-05-15","workers_dev":true}
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dachborde",
+  "main": "worker.js",
+  "account_id": "40e9f73e78ce6a334d602dd07fe6127f",
+  "compatibility_date": "2026-05-15",
+  "workers_dev": true
+}
